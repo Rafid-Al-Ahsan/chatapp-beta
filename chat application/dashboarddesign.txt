@@ -1,0 +1,12 @@
+1)Dashboard -User name,user email, Payment Status, Button-renewsubscrtiption
+2) Make subscription
+3) Start Chat 
+4) Account Settings
+5) Logout
+
+Name
+Email
+Phone Number
+Password
+Confirm password
+Picture
